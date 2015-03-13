@@ -1,4 +1,4 @@
-name             'php_xdebug'
+name             'php-recipes'
 maintainer       'LEDfan'
 maintainer_email 'hey@ledfan.be'
 license          'All rights reserved'
